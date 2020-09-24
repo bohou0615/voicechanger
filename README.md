@@ -8,10 +8,16 @@ Here, we apply three different methods to do this task. First is Phase vocoder, 
 The first and second methods are based on Short-time Fast Fourier transform.
 The thrid method utilizes legacy-STRAIGHT tool.
 
-# Result
+# Author
+This project is completed by Po-Hao WU and Yu-Cheng Hsiao
 
 # Note
 Main file is in DSP_Final. \
 ohter .m files are for the second method. \
 Straight Vocoder needs to be downloaded from https://github.com/HidekiKawahara/legacy_STRAIGHT.git  \
 Report is edited in Chinese.
+
+# Reference
+1.  Pitch Shifting and Time Dilation Using a Phase Vocoder in MATLAB https://ww2.mathworks.cn/help/audio/ug/pitch-shifting-and-time-dilation-using-a-phase-vocoder-in-matlab.html;jsessionid=f0f3f57fe27c3d826ac71a646ceb
+2.  EE664100 Analysis and synthesis of digital audio signals-Lec6 SinMod
+3.  Legacy STRAIGHT
