@@ -11,7 +11,7 @@ The thrid method utilizes legacy-STRAIGHT tool.
 # Result
 
 # Note
-Main file is in DSP_Final. \
-ohter .m files are for the second method.
-Straight Vocoder needs to be downloaded from https://github.com/HidekiKawahara/legacy_STRAIGHT.git
+Main file is in DSP_Final. \n 
+ohter .m files are for the second method. \n 
+Straight Vocoder needs to be downloaded from https://github.com/HidekiKawahara/legacy_STRAIGHT.git \n 
 Report is edited in Chinese.
