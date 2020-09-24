@@ -12,11 +12,11 @@ The thrid method utilizes legacy-STRAIGHT tool.
 This project is completed by Po-Hao WU and Yu-Cheng Hsiao
 
 # Note
-* Main file is in DSP_Final. \
-* ohter .m files are for the second method. \
-* Straight Vocoder needs to be downloaded from https://github.com/HidekiKawahara/legacy_STRAIGHT.git  \
-* DSP System Toolbox and Wavelet Toolbox are required \
-* Audio files are not uploaded beased on the personal privacy \
+*Main file is in DSP_Final. 
+* ohter .m files are for the second method. 
+* Straight Vocoder needs to be downloaded from https://github.com/HidekiKawahara/legacy_STRAIGHT.git  
+* DSP System Toolbox and Wavelet Toolbox are required 
+* Audio files are not uploaded beased on the personal privacy 
 * Report is edited in Chinese.
 
 # Reference
