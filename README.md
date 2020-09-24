@@ -27,7 +27,7 @@ This project is completed by Po-Hao WU and Yu-Cheng Hsiao
 * Straight Vocoder is downloaded from https://github.com/HidekiKawahara/legacy_STRAIGHT.git  
 * DSP System Toolbox and Wavelet Toolbox are required 
 * Audio files are not uploaded beased on the personal privacy 
-* Report is written in Chinese.
+* Report, named Team 10, is written in Chinese and Supplementary constituted of figures of the report.
 
 # Reference
 1.  Pitch Shifting and Time Dilation Using a Phase Vocoder in MATLAB https://ww2.mathworks.cn/help/audio/ug/pitch-shifting-and-time-dilation-using-a-phase-vocoder-in-matlab.html;jsessionid=f0f3f57fe27c3d826ac71a646ceb
